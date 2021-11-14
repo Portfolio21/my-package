@@ -1,7 +1,8 @@
 {
   "name": "gruzd/test-composer",
-  "description": "Test composer package",
-  "license": "proprietary",
+  "description": "Learning",
+  "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "gruzd ulia",
@@ -13,6 +14,8 @@
     "guzzlehttp/guzzle": "^7.4"
   },
   "autoload": {
-    "classmap": ["src"]
+    "psr-4": {
+      "Gruzd\\Tools\\Url\\": "src"
+    }
   }
 }
