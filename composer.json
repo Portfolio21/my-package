@@ -1,5 +1,7 @@
 {
   "name": "gruzd/test-composer",
+  "description": "Test composer package",
+  "license": "proprietary",
   "authors": [
     {
       "name": "gruzd ulia",
