@@ -1,1 +1,1 @@
-# my-package
+# This package checks host for availability

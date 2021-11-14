@@ -1,0 +1,16 @@
+{
+  "name": "gruzd/test-composer",
+  "authors": [
+    {
+      "name": "gruzd ulia",
+      "email": "gruzdulia@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
